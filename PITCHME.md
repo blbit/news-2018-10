@@ -8,8 +8,7 @@
 ## Novosti: .NET ekosistem
 
 - [Visual Studio 2017 version 15.8.x](https://blogs.msdn.microsoft.com/visualstudio/2018/08/14/visual-studio-2017-version-15-8/)
-  - Poboljšana produktivnost
-  - Poboljšane performanse
+  - Poboljšana produktivnost i performanse
   - Novosti za C++, F#, JavaScript, TypeScript, Web Tools, Android dev
   - Novi .NET Core SDK 2.1.400, .NET Framework 4.7.2
 - [ASP.NET Core 2.2 roadmap](https://github.com/aspnet/Announcements/issues/307)
@@ -29,7 +28,7 @@
 
 ---
 
-## Community: Konferencije i meetupi
+## Community: Konferencije
 
 - Sinergija 18, 24.10. - 25.10., Beograd Srbija - https://www.sinergija18.rs/
 - SQLSaturday #791, 03.11., Banja Luka - https://www.sqlsaturday.com/791/
@@ -37,10 +36,13 @@
 - Seavus CodeTalks, 15.11., Banja Luka – https://codetalks.seavus.com/
 - Advanced Technology Days 14, 05.12. - 06.12., Zagreb Hrvatska - https://advtechdays.com/
 
-### Banja Luka IT meetups Google calendar
+---
 
-- Đurđica Milić
-- https://bit.ly/meetupsBL
+## Community: Local
+
+- Banja Luka IT meetups Google calendar
+  - Đurđica Milić
+  - https://bit.ly/meetupsBL
 
 ---
 
