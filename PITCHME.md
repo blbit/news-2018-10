@@ -40,7 +40,7 @@
 
 ## Community: Konferencije 2
 
-- WeAreDevelopers, 04.12. - 04.12., Beč Austrija - https://www.wearedevelopers.com/ai-congress/
+- WeAreDevelopers AI Congress, 04.12. - 04.12., Beč Austrija - https://www.wearedevelopers.com/ai-congress/
   - [Prezentacija](wearedevelopers.pdf)
   - 15% popusta - `BLbit_AI_Congress_2018`
 
