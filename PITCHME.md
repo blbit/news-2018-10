@@ -28,12 +28,11 @@
 
 ---
 
-## Community: Konferencije
+## Community: Konferencije i meetupi
 
 - Sinergija 18, 24.10. - 25.10., Beograd Srbija - https://www.sinergija18.rs/
 - SQLSaturday #791, 03.11., Banja Luka - https://www.sqlsaturday.com/791/
-- Seavus CodeTalks, 08.11., Beograd Srbija - https://codetalks.seavus.com/
-- Seavus CodeTalks, 15.11., Banja Luka – https://codetalks.seavus.com/
+- Seavus CodeTalks, 13.11. Beograd, 15.11. Banja Luka - https://codetalks.seavus.com/
 - Advanced Technology Days 14, 05.12. - 06.12., Zagreb Hrvatska - https://advtechdays.com/
 
 ---
